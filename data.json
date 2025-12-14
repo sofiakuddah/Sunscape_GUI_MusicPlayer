@@ -1,0 +1,250 @@
+{
+    "library": [
+        {
+            "id": "S0001",
+            "title": "pelangi",
+            "artist": "HIVI!",
+            "genre": "pop",
+            "year": "2016",
+            "duration": "4:24",
+            "file_path": "C:/Users/sofia/Downloads/Hivi! \u2013 Pelangi (Live).mp3"
+        },
+        {
+            "id": "S0002",
+            "title": "lalalost you",
+            "artist": "NIKI",
+            "genre": "pop",
+            "year": "2022",
+            "duration": "3:29",
+            "file_path": "C:/Users/sofia/Downloads/NIKI & 88rising \u0393\u00c7\u00f4 La La Lost You (Acoustic Version).mp3"
+        },
+        {
+            "id": "S0003",
+            "title": "stop waiting",
+            "artist": "Cigarettes After Sex",
+            "genre": "dream pop",
+            "year": "2019",
+            "duration": "6:03",
+            "file_path": "C:/Users/sofia/Downloads/Cigarettes After Sex \u0393\u00c7\u00f4 Stop Waiting.mp3"
+        },
+        {
+            "id": "S0004",
+            "title": "heavenly",
+            "artist": "Cigarettes After Sex",
+            "genre": "dream pop",
+            "year": "2017",
+            "duration": "4:47",
+            "file_path": "C:/Users/sofia/Downloads/Cigarettes After Sex \u0393\u00c7\u00f4 Heavenly.mp3"
+        },
+        {
+            "id": "S0005",
+            "title": "lacy",
+            "artist": "Olivia Rodrigo",
+            "genre": "pop",
+            "year": "2023",
+            "duration": "2:58",
+            "file_path": "C:/Users/sofia/Downloads/Olivia-Rodrigo-\u2013-lacy.mp3"
+        },
+        {
+            "id": "S0006",
+            "title": "happiness",
+            "artist": "Rex Orange County",
+            "genre": "indie pop",
+            "year": "2020",
+            "duration": "4:38",
+            "file_path": "C:/Users/sofia/Downloads/Rex Orange County \u0393\u00c7\u00f4 Happiness.mp3"
+        },
+        {
+            "id": "S0007",
+            "title": "marvin gaye",
+            "artist": "Charlie Puth",
+            "genre": "pop",
+            "year": "2015",
+            "duration": "3:11",
+            "file_path": "C:/Users/sofia/Downloads/Charlie-Puth-\u2013-Marvin-Gaye-_feat.-Meghan-Trainor_.mp3"
+        },
+        {
+            "id": "S0008",
+            "title": "snooze",
+            "artist": "SZA",
+            "genre": "pop",
+            "year": "2023",
+            "duration": "3:22",
+            "file_path": "C:/Users/sofia/Downloads/SZA \u0393\u00c7\u00f4 Snooze.mp3"
+        },
+        {
+            "id": "S0009",
+            "title": "everything u are",
+            "artist": "HINDIA",
+            "genre": "indie pop",
+            "year": "2024",
+            "duration": "3:57",
+            "file_path": "C:/Users/sofia/Downloads/Hindia-\u2013-everything-u-are.mp3"
+        },
+        {
+            "id": "S0010",
+            "title": "cincin",
+            "artist": "HINDIA",
+            "genre": "indie pop",
+            "year": "2024",
+            "duration": "4:27",
+            "file_path": "C:/Users/sofia/Downloads/Hindia \u0393\u00c7\u00f4 Cincin.mp3"
+        },
+        {
+            "id": "S0011",
+            "title": "sleep well",
+            "artist": "d4vd",
+            "genre": "bedroom pop",
+            "year": "2022",
+            "duration": "2:56",
+            "file_path": "C:/Users/sofia/Downloads/d4vd \u0393\u00c7\u00f4 Sleep Well.mp3"
+        },
+        {
+            "id": "S0012",
+            "title": "double take",
+            "artist": "dhruv",
+            "genre": "bedroom pop",
+            "year": "2019",
+            "duration": "2:52",
+            "file_path": "C:/Users/sofia/Downloads/dhruv \u0393\u00c7\u00f4 double take.mp3"
+        },
+        {
+            "id": "S0013",
+            "title": "air dan api",
+            "artist": "Naif",
+            "genre": "pop rock",
+            "year": "2002",
+            "duration": "3:18",
+            "file_path": "C:/Users/sofia/Downloads/Naif-\u2013-Air-_-Api.mp3"
+        },
+        {
+            "id": "S0014",
+            "title": "piknik 72",
+            "artist": "Naif",
+            "genre": "pop rock",
+            "year": "2002",
+            "duration": "3:22",
+            "file_path": "C:/Users/sofia/Downloads/Naif-\u2013-Piknik-_72.mp3"
+        },
+        {
+            "id": "S0015",
+            "title": "pupus",
+            "artist": "Pamungkas",
+            "genre": "pop",
+            "year": "2019",
+            "duration": "5:16",
+            "file_path": "C:/Users/sofia/Downloads/Pamungkas-\u2013-Pupus.mp3"
+        },
+        {
+            "id": "S0016",
+            "title": "separuh nafas",
+            "artist": "Dewa 19",
+            "genre": "pop rock",
+            "year": "2000",
+            "duration": "3:43",
+            "file_path": "C:/Users/sofia/Downloads/Dewa-19-\u2013-Separuh-Nafas.mp3"
+        },
+        {
+            "id": "S0017",
+            "title": "best friend",
+            "artist": "Rex Orange County",
+            "genre": "indie pop",
+            "year": "2019",
+            "duration": "4:23",
+            "file_path": "C:/Users/sofia/Downloads/Rex Orange County \u2013 Best Friend.mp3"
+        },
+        {
+            "id": "S0018",
+            "title": "losing us",
+            "artist": "Raisa Anggiani",
+            "genre": "pop",
+            "year": "2021",
+            "duration": "3:57",
+            "file_path": "C:/Users/sofia/Downloads/Raissa-Anggiani-\u2013-Losing-Us..mp3"
+        },
+        {
+            "id": "S0019",
+            "title": "if u could see me crying in my room",
+            "artist": "Raisa Anggiani",
+            "genre": "pop",
+            "year": "2020",
+            "duration": "4:17",
+            "file_path": "C:/Users/sofia/Downloads/Arash-Buana-_-Raissa-Anggiani-\u2013-if-u-could-see-me-cryin_-in-my-room.mp3"
+        },
+        {
+            "id": "S0020",
+            "title": "wish you were sober",
+            "artist": "Conan Gray",
+            "genre": "indie pop",
+            "year": "2020",
+            "duration": "2:49",
+            "file_path": "C:/Users/sofia/Downloads/Conan-Gray-\u2013-Wish-You-Were-Sober.mp3"
+        },
+        {
+            "id": "S0021",
+            "title": "happier",
+            "artist": "Olivia Rodrigo",
+            "genre": "folk pop",
+            "year": "2021",
+            "duration": "2:56",
+            "file_path": "C:/Users/sofia/Downloads/Olivia-Rodrigo-\u2013-happier.mp3"
+        },
+        {
+            "id": "S0022",
+            "title": "dandelions",
+            "artist": "Ruth B.",
+            "genre": "pop",
+            "year": "2017",
+            "duration": "3:54",
+            "file_path": "C:/Users/sofia/Downloads/Ruth B. \u2013 Dandelions.mp3"
+        },
+        {
+            "id": "S0023",
+            "title": "glimpse of us",
+            "artist": "Joji",
+            "genre": "R&B",
+            "year": "2022",
+            "duration": "3:54",
+            "file_path": "C:/Users/sofia/Downloads/Joji-\u2013-Glimpse-of-Us.mp3"
+        },
+        {
+            "id": "S0024",
+            "title": "the man who cant be moved",
+            "artist": "The Script",
+            "genre": "pop rock",
+            "year": "2008",
+            "duration": "4:02",
+            "file_path": "C:/Users/sofia/Downloads/The-Script-\u2013-The-Man-Who-Can_t-Be-Moved (1).mp3"
+        },
+        {
+            "id": "S0025",
+            "title": "505",
+            "artist": "Arctic Monkeys",
+            "genre": "indie rock",
+            "year": "2007",
+            "duration": "4:13",
+            "file_path": "C:/Users/sofia/Downloads/Arctic-Monkeys-\u2013-505.mp3"
+        },
+        {
+            "id": "S0026",
+            "title": "teman hidup",
+            "artist": "Tulus",
+            "genre": "pop",
+            "year": "2011",
+            "duration": "3:43",
+            "file_path": "C:/Users/sofia/Downloads/Tulus-\u2013-Teman-Hidup.mp3"
+        }
+    ],
+    "users": {
+        "U001": {
+            "username": "Zalsa",
+            "playlists": {
+                "My Playlist": [
+                    "S0001"
+                ],
+                "Favorites": []
+            }
+        }
+    },
+    "user_counter": 2
+}
