@@ -6,14 +6,12 @@ import os
 with open('app.py', 'r', encoding='utf-8') as f:
     content = f.read()
 
-# Add PIL import at the top
 if 'from PIL import Image, ImageTk' not in content:
     # Find the import section
     import_pos = content.find('import tkinter as tk')
     if import_pos > 0:
         content = content[:import_pos] + 'from PIL import Image, ImageTk\n' + content[import_pos:]
 
-# Update login screen to include logo
 old_login = '''    def show_login_screen(self):
         """Show login screen"""
         self.clear_current_screen()
