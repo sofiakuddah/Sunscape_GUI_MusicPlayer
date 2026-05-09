@@ -2,7 +2,7 @@
 
 Sunscape adalah aplikasi pemutar musik desktop yang dibangun menggunakan bahasa Python dengan antarmuka Tkinter dan mesin pemutar audio Pygame. Nama Sunscape sendiri merupakan gabungan kata sunset dan soundscape yang bertujuan untuk memberikan pengalaman mendengarkan musik yang nyaman layaknya menikmati suasana senja.
 
-Aplikasi ini tidak hanya berfokus pada antarmuka visual yang modern, tetapi juga berfokus pada efisiensi pengelolaan data. Hal ini dicapai dengan mengimplementasikan berbagai konsep struktur data dasar secara langsung dari awal.
+Aplikasi ini bukan hanya berfokus pada antarmuka visual yang modern, tetapi juga berfokus pada efisiensi pengelolaan data. Hal tersebut mengimplementasikan berbagai konsep struktur data dasar secara langsung dari awal.
 
 ## Fitur Utama
 
