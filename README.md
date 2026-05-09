@@ -2,7 +2,7 @@
 
 Sunscape adalah aplikasi pemutar musik desktop yang dibangun menggunakan bahasa Python dengan antarmuka Tkinter dan mesin pemutar audio Pygame. Nama Sunscape sendiri merupakan gabungan kata sunset dan soundscape yang bertujuan untuk memberikan pengalaman mendengarkan musik yang nyaman layaknya menikmati suasana senja.
 
-Aplikasi ini tidak hanya berfokus pada antarmuka visual yang modern, tetapi juga berfokus pada efisiensi pengelolaan data. Hal ini dicapai dengan mengimplementasikan berbagai konsep struktur data dasar secara langsung dari awal.
+Aplikasi ini bukan hanya berfokus pada antarmuka visual yang modern, tetapi juga berfokus pada efisiensi pengelolaan data. Hal ini dicapai dengan mengimplementasikan berbagai konsep struktur data dasar secara langsung dari awal.
 
 ## Fitur Utama
 
@@ -13,7 +13,7 @@ Berperan sebagai pengelola basis data utama. Admin memiliki akses penuh untuk me
 
 **Mode User**
 Berperan sebagai pendengar dengan beberapa fitur khusus
-- **Smart Playback** - Pengguna dapat memutar musik, menghentikan sementara, melewati lagu, kembali ke lagu sebelumnya, serta mengatur antrean pemutaran.
+- **Smart Playback** - Pengguna dapat memutar lagu, menghentikan sementara, melewati lagu, kembali ke lagu sebelumnya, serta mengatur antrean pemutaran.
 - **Custom Playlist** - Pengguna dapat membuat dan menyusun daftar putar secara personal.
 - **Smart Search dan Auto-Recommend** - Algoritma pencarian dirancang agar dapat menoleransi kesalahan ketik ringan. Apabila daftar putar telah habis, sistem akan secara otomatis mencari dan memutar lagu yang serupa berdasarkan kemiripan artis atau genre.
 - **Playback History** - Pengguna dapat melacak daftar lagu yang baru saja selesai diputar.
@@ -34,4 +34,4 @@ Untuk memastikan performa aplikasi tetap cepat dan responsif, Sunscape memanfaat
 - Audio Engine Pygame
 
 ---
-Proyek ini dikembangkan sebagai bentuk penerapan praktis dari teori struktur data ke dalam perangkat lunak fungsional.
+Proyek ini dikembangkan sebagai bentuk implementasi dari teori struktur data ke dalam perangkat lunak fungsional.
